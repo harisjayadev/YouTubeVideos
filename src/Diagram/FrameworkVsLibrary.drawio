@@ -1,0 +1,52 @@
+<mxfile host="Electron" modified="2023-10-23T06:11:19.495Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="DhHBYwAR7k4f1CT30HkR" version="22.0.3" type="device">
+  <diagram name="Page-1" id="ChZq3SrfZAfYTmTNuBl9">
+    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rkYEqZy2XvWLb7R-TEip-9" value="Application / Software Framewrok" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="239" y="214" width="360" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ttod3MZVqldVMewaz7G8-1" value="Runtime" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="302" width="270" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ttod3MZVqldVMewaz7G8-2" value="Framewrok Libraries" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="230" width="80" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="ttod3MZVqldVMewaz7G8-3" value="Standards" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="230" width="80" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="ttod3MZVqldVMewaz7G8-4" value="Your Application Code" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="141" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ttod3MZVqldVMewaz7G8-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="189" width="360" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="rkYEqZy2XvWLb7R-TEip-1" value="Library 1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="40" width="100" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="rkYEqZy2XvWLb7R-TEip-3" value="Library 2" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="40" width="100" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="rkYEqZy2XvWLb7R-TEip-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="515" y="89" as="sourcePoint" />
+            <mxPoint x="465" y="139" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkYEqZy2XvWLb7R-TEip-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="91" as="sourcePoint" />
+            <mxPoint x="370" y="141" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkYEqZy2XvWLb7R-TEip-10" value="API&#39;s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="229" width="80" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="rkYEqZy2XvWLb7R-TEip-12" value="Compilers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="338" width="270" height="28" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
